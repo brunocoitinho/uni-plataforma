@@ -11,4 +11,5 @@ Probabilidade e Estatística: https://www.youtube.com/playlist?list=PLrOyM49ctTx
 Introdução a Programação (Python): 
   - Opção 1: https://youtube.com/playlist?list=PLuARAw3cqFRA7cW0zNs5fGs4989Gt9Zub&si=0L04YlJW79c6bkJT
   - Opção 2: https://youtube.com/playlist?list=PLh-8fk3VvocA7anpdMc48Kr1FxyVXye6T&si=M0AavZMUPxBTV33g
+
 Algebra Linear: https://youtube.com/playlist?list=PLO3hBdfBc4pFef1zn1oZyYXLomL9MiX-C&si=R5K8amM-hL3p8Gmk
